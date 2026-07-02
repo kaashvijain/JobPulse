@@ -1,2 +1,8 @@
+[project]
+name = "jobpulse"
+version = "1.0.0"
+description = "JobPulse recruitment market analytics"
+dependencies = []
+
 [tool.vercel]
 entrypoint = "backend.app:app"
