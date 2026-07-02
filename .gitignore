@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.agents/
+node_modules/
+dist/
+frontend/node_modules/
+frontend/dist/
+*.log
+.gemini/
